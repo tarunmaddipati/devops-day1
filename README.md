@@ -1,4 +1,6 @@
 # devops-day1
 DevOps Assignment 1
 
-Hi, I am Tarun. This is my first DevOps project.
+Hi, I am Tarun. This is my first DevOps project
+
+My favourite tool: Git
