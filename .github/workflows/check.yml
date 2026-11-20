@@ -1,0 +1,12 @@
+name: Check my code
+
+on: push
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get my code
+        uses: actions/checkout@v4
+      - name: Run my python file
+        run: python3 hello.py
